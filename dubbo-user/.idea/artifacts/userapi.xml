@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="userapi">
+    <output-path>$PROJECT_DIR$/out/artifacts/userapi</output-path>
+    <root id="archive" name="userapi.jar">
+      <element id="module-output" name="dubbo-user" />
+    </root>
+  </artifact>
+</component>

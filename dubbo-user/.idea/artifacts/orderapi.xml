@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="orderapi">
+    <output-path>$PROJECT_DIR$/../dubbo-order/out/artifacts/orderapi</output-path>
+    <root id="archive" name="orderapi.jar">
+      <element id="module-output" name="order-api" />
+    </root>
+  </artifact>
+</component>

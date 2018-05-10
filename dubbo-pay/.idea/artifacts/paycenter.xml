@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="paycenter">
+    <output-path>$PROJECT_DIR$/out/artifacts/paycenter</output-path>
+    <root id="archive" name="paycenter.jar">
+      <element id="module-output" name="dubbo-pay" />
+    </root>
+  </artifact>
+</component>

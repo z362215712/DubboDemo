@@ -1,0 +1,5 @@
+com/test/vincent/dubbo/user/dto/Response.class
+com/test/vincent/dubbo/user/App.class
+com/test/vincent/dubbo/user/dto/UserLoginRequest.class
+com/test/vincent/dubbo/user/dto/UserLoginResponse.class
+com/test/vincent/dubbo/user/IUserService.class
