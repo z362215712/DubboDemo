@@ -1,0 +1,3 @@
+基于Dubbo负载均衡，从user服务节点分发到下面的order节点
+order逻辑处理后交给pay，需要加锁
+采用zookeeper，根据zookeeper的临时有序节点原理，去加锁（待我整理上去）
